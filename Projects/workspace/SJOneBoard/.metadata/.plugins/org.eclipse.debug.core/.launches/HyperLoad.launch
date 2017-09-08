@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/SJOneBoard/Tools/HyperLoad/pyFlashHyperload.py"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-p /dev/tty.usbserial-A503OK3K -f /SJOneBoard/Projects/lpc1758_helloworld/_build/lpc1758_freertos.hex"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:/lpc1758_freertos}"/>
+</launchConfiguration>
